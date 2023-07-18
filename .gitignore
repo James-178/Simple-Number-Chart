@@ -1,3 +1,13 @@
 *.dproj.local
 *.res
 *.identcache
+*.~*
+*.dcu
+*.dsk
+*.local
+*.map
+*.rsm
+*.stat
+*.tvsconfig
+__history/
+__recovery/
